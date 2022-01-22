@@ -1,7 +1,7 @@
 <template>
     <div>
 
-<section class="course-details-area pt-150 pb-120 pt-md-100 pb-md-70 pt-xs-100 pb-xs-70">
+<section class="course-details-area pt-30 pb-120 pt-md-100 pb-md-70 pt-xs-100 pb-xs-70">
   <div class="container">
 
     <div class="row">
@@ -24,7 +24,7 @@
             </li>
             <li>
               <div class="cart-btn">
-                <a class="theme_btn" href="/#/EnrollCourse">Đăng ký</a>
+                <a class="theme_btn" href="/#/EnrollCourse/2">Đăng ký</a>
               </div>
             </li>
           </ul>

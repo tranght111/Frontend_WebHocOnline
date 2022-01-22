@@ -1,6 +1,6 @@
 <template>
     <div>
-        <section class="contact-form-area pt-150 pb-120 pt-md-100 pt-xs-100 pb-md-70 pb-xs-70">
+        <section class="contact-form-area pt-30 pb-120 pt-md-100 pt-xs-100 pb-md-70 pb-xs-70">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-12">

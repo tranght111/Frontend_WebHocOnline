@@ -1,47 +1,8 @@
 <template>
-    <div>
-    <header>
-            <!-- slide-bar start -->
-    <aside class="slide-bar">
-        <div class="close-mobile-menu">
-            <a href="javascript:void(0);"><i class="fas fa-times"></i></a>
-        </div>
+   
+  
 
-        <!-- offset-sidebar start -->
-        <div class="offset-sidebar">
-            <div class="offset-widget offset-logo mb-30">
-                <a href="index.html">
-                    <img src="assets/img/logo/header_logo_one.svg" alt="logo">
-                </a>
-            </div>
-            <div class="offset-widget mb-40">
-                <div class="info-widget">
-                    <h4 class="offset-title mb-20">About Us</h4>
-                    <p class="mb-30">
-                        But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain
-                        was born and will give you a complete account of the system and expound the actual teachings of
-                        the great explore
-                    </p>
-                    <a class="theme_btn theme_btn_bg" href="contact.html">Contact Us</a>
-                </div>
-            </div>
-            <div class="offset-widget mb-30 pr-10">
-                <div class="info-widget info-widget2">
-                    <h4 class="offset-title mb-20">Contact Info</h4>
-                    <p> <i class="fal fa-address-book"></i> 23/A, Miranda City Likaoli Prikano, Dope</p>
-                    <p> <i class="fal fa-phone"></i> +0989 7876 9865 9 </p>
-                    <p> <i class="fal fa-envelope-open"></i> info@example.com </p>
-                </div>
-            </div>
-        </div>
-        <!-- offset-sidebar end -->
-
-    </aside>
-    <div class="body-overlay"></div>
-    <!-- slide-bar end -->
-</header>
-
-<section class="course-details-area pt-150 pb-120 pt-md-100 pb-md-70 pt-xs-100 pb-xs-70">
+<section class="course-details-area pt-30 pb-120 pt-md-100 pb-md-70 pt-xs-100 pb-xs-70">
   <div class="container">
 
     <div class="row">
@@ -64,7 +25,7 @@
             </li>
             <li>
               <div class="cart-btn">
-                <a class="theme_btn" href="/#/EnrollCourse">Đăng ký</a>
+                <a class="theme_btn" href="/#/EnrollCourse/1">Đăng ký</a>
               </div>
             </li>
           </ul>
@@ -161,7 +122,7 @@
         <div class="meet-our-teacher mb-65">
           <h2 class="courses-title mb-30">Thông tin giảng viên</h2>
           <div class="teachers-content mb-25">
-            <img class="teacher_01" src="assets/img/course/details/teacher.png" alt="">
+            <img class="teacher_01" src="@/assets/img/course/details/teacher.png" alt="">
             <div class="teachers-content__text">
               <h5>Lăng Văn Nhàn</h5>
               <p>Java Teacher</p>
@@ -175,7 +136,7 @@
     </div>
   </div>
 </section>
-    </div>
+   
 </template>
 
 <script>

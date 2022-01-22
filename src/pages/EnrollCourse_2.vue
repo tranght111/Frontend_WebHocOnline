@@ -11,7 +11,7 @@
         <div class="offset-sidebar">
             <div class="offset-widget offset-logo mb-30">
                 <a href="index.html">
-                    <img src="assets/img/logo/header_logo_one.svg" alt="logo">
+                    <img src="@/assets/img/logo/header_logo_one.svg" alt="logo">
                 </a>
             </div>
             <div class="offset-widget mb-40">
@@ -80,7 +80,7 @@
     <div class="row">
       <div class="col-xxl-8 col-xl-7">
         <div class="courses-details-wrapper mb-30">
-          <h2 class="courses-title mb-30">Lập trình Java</h2>
+          <h2 class="courses-title mb-30">Lập trình C#</h2>
           <div class="course-details-img mb-30" style="background-image: url('https://product.bachkhoa-aptech.edu.vn:33/resources/upload/image/1200x628-4-.png');">
           </div>
         </div>
@@ -124,7 +124,7 @@
     <div class="row">
       <div class="col-xl-6 col-lg-7">
         <div class="project-details mb-65">
-          <p>Khóa học lập trình Java cơ bản cho người mới bắt đầu. Với giảng viên giàu kinh nghiệm và tận tình, bạn sẽ được khám phá những kiến thức về Java. Hãy đăng ký ngay hôm nay</p> 
+          <p>Khóa học lập trình C# cơ bản cho người mới bắt đầu. Với giảng viên giàu kinh nghiệm và tận tình, bạn sẽ được khám phá những kiến thức về Java. Hãy đăng ký ngay hôm nay</p> 
         </div>  
       </div>
     </div>

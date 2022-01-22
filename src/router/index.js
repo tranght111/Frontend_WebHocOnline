@@ -15,6 +15,7 @@ import EnglishCourse from '@/pages/EnglishCourse'
 import AuthenticateHome from '@/pages/AuthenticateHome'
 import EconomicCourse from '@/pages/EconomicCourse'
 import EnrollCourse from '@/pages/EnrollCourse'
+import EnrollCourse_2 from '@/pages/EnrollCourse_2'
 
 Vue.use(Router)
 
@@ -58,7 +59,7 @@ export default new Router({
             component: CourseDetail_2
         },
         {
-            path: '/EnglishCourse',
+            path: '/Home/English',
             name: 'EnglishCourse',
             component: EnglishCourse
         }, {
@@ -66,11 +67,11 @@ export default new Router({
             name: 'AuthenticateHome',
             component: AuthenticateHome
         }, {
-            path: '/EconomicCourse',
+            path: '/Home/Economic',
             name: 'EconomicCourse',
             component: EconomicCourse
         }, {
-            path: '/EnrollCourse',
+            path: '/EnrollCourse/1',
             name: 'EnrollCourse',
             component: EnrollCourse
         },
@@ -78,6 +79,11 @@ export default new Router({
             path: '/CheckOut',
             name: 'CheckOut',
             component: CheckOut
+        },
+        {
+            path: '/EnrollCourse/2',
+            name: 'EnrollCourse_2',
+            component: EnrollCourse_2
         },
     ]
 })
